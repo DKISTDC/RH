@@ -1,0 +1,7 @@
+build/
+.python-version
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
